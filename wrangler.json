@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "glassmarkets-71",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d630fbce-2850-4a07-a10a-719520d4d7bf",
+      "database_name": "glassmarkets-db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
